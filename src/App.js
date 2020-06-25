@@ -27,7 +27,7 @@ export default class Gjobat extends React.Component {
     this.setState({
       isSubmitted: true
     })
-    axios.post('http://c939c1863fd5.ngrok.io', {
+    axios.post('http://91448d4aac2d.ngrok.io', {
       targa: this.state.targa,
        shasia: this.state.shasia
       })
