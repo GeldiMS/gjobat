@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gjobat/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gjobat/static/js/main.56f85feb.chunk.js",
+    "main.js.map": "/gjobat/static/js/main.56f85feb.chunk.js.map",
+    "runtime-main.js": "/gjobat/static/js/runtime-main.0a3da88e.js",
+    "runtime-main.js.map": "/gjobat/static/js/runtime-main.0a3da88e.js.map",
+    "static/js/2.eecbb7cd.chunk.js": "/gjobat/static/js/2.eecbb7cd.chunk.js",
+    "static/js/2.eecbb7cd.chunk.js.map": "/gjobat/static/js/2.eecbb7cd.chunk.js.map",
+    "index.html": "/gjobat/index.html",
+    "precache-manifest.039c9600e0c4b832a1a37ec70b9a87f3.js": "/gjobat/precache-manifest.039c9600e0c4b832a1a37ec70b9a87f3.js",
+    "service-worker.js": "/gjobat/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gjobat/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eecbb7cd.chunk.js.LICENSE.txt": "/gjobat/static/js/2.eecbb7cd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gjobat/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a3da88e.js",
+    "static/js/2.eecbb7cd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.56f85feb.chunk.js"
+  ]
+}
