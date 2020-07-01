@@ -53,7 +53,7 @@ render() {
   return (
     <form onSubmit={this.handleSubmit}>
       <label>
-        Targa:
+        Test:
         <input type="text" value={this.state.value} name="targa" onChange={this.handleChange} />
         Shasia:
         <input type="text" value={this.state.value} name="shasia" onChange={this.handleChange} />
